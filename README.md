@@ -9,6 +9,10 @@
 [![React 19 + Vite](https://img.shields.io/badge/Frontend-React%2019%20%2B%20Vite-61DAFB.svg)](https://vitejs.dev/)
 [![MCP Ready](https://img.shields.io/badge/Protocol-Model%20Context%20Protocol-8A2BE2)](https://modelcontextprotocol.io)
 
+> 📖 **Empirical Benchmarks & Architectural Teardown**:  
+> Read the complete engineering benchmark on **[RepoBenchmarks.com](https://www.repobenchmarks.com)**:  
+> [**TabPFN-3.5 vs. XGBoost & LightGBM: Tabular Foundation Model Benchmarks & Micro-SaaS Architecture**](https://www.repobenchmarks.com/2026/10/tabpfn-35-vs-xgboost-lightgbm-tabular.html)
+
 ---
 
 ## 💡 The Problem: Invisible Financial Bleed
