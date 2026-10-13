@@ -39,24 +39,16 @@ In under **200 milliseconds**, TabuPulse:
 
 ## 📸 Demo & Screenshots
 
-### 1. Executive Revenue Protection Dashboard
-![TabuPulse Dashboard Overview](https://raw.githubusercontent.com/your-username/tabupulse-ai/main/docs/dashboard.png)
+### Executive Revenue Protection Dashboard
+![TabuPulse Dashboard Overview](https://raw.githubusercontent.com/repobenchmarks/tabupulse-ai/main/docs/dashboard.png)
 *Real-time executive metrics calculating annual recurring revenue at risk, high-risk account alerts, and TabPFN inference speed (153ms).*
-
-### 2. Autonomous Action Playbook
-![Autonomous Playbook](https://raw.githubusercontent.com/your-username/tabupulse-ai/main/docs/playbook.png)
-*Prescriptive tactical interventions prioritized by dollar value, root cause drivers, and urgency.*
-
-### 3. Model Context Protocol (MCP) in Claude Desktop
-![MCP Tool Execution](https://raw.githubusercontent.com/your-username/tabupulse-ai/main/docs/mcp.png)
-*Claude Desktop calling TabuPulse tools natively to audit invoices and forecast cashflow.*
 
 ---
 
-## 💻 Source Code & Live Links
+## 💻 Source Code
 
 - **GitHub Repository**: [https://github.com/repobenchmarks/tabupulse-ai](https://github.com/repobenchmarks/tabupulse-ai)
-- **Live Deployment on Render**: [https://tabupulse-ai.onrender.com](https://tabupulse-ai.onrender.com)
+- **Render Ready**: Includes turnkey `render.yaml` infrastructure blueprint in repository
 - **License**: MIT (100% Open Source)
 
 ---
