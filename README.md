@@ -15,6 +15,10 @@
 
 ---
 
+![TabuPulse Dashboard Overview](docs/dashboard.png)
+
+---
+
 ## 💡 The Problem: Invisible Financial Bleed
 Every freelancer and micro-SaaS operator sits on a goldmine of tabular business data (Stripe transactions, invoice due dates, user activity logs, support tickets). Yet:
 1. **$6,200+ Average Annual Freelance Cashflow Lag**: Freelancers regularly suffer 2–4 week payment delays because they cannot predict which clients will stall settlement until it's too late.
